@@ -1,5 +1,6 @@
 # aws-portfolio
 
+```bash
 aws-portfolio/
 │
 ├── aws-iam-basics-lab/ (COMPLETED)
@@ -10,3 +11,4 @@ aws-portfolio/
 ├── aws-logging-and-monitoring/
 ├── aws-well-architected-review/
 ├── terraform-aws-vpc/
+```
