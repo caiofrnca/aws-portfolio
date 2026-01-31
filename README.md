@@ -1,5 +1,3 @@
-# aws-portfolio
-
 # AWS Infrastructure & Architecture Portfolio
 
 This portfolio documents my hands-on, build-as-I-learn journey while preparing
