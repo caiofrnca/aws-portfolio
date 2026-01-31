@@ -19,6 +19,11 @@ decision-making.
 - **[aws-ec2-storage-decisions](https://github.com/caiofrnca/aws-ec2-storage-decisions)** - Architect-level storage decision-making and recovery patterns
 
 #### aws-vpc-foundations/
+- build-1-vpc-baseline/
+- build-2-public-private-subnets/
+- build-3-routing-igw-nat/
+- build-4-security-groups-vs-nacls/
+- build-5-bastion-access-pattern/
 
 ## Structure overview
 ```bash
