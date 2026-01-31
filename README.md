@@ -12,10 +12,13 @@ decision-making.
 - CLI-driven workflows and automation mindset
 
 ## Projects
+
 #### aws-iam-basics-lab/
-- **aws-iam-foundations(https://github.com/caiofrnca/aws-iam-foundations)** — Identity design using users, groups, roles, policies, MFA, and IAM security tools
-- **aws-ec2-baseline-architecture** — Secure EC2 deployment with IAM roles, security groups, SSH access models, and cost-aware instance selection
-- **aws-ec2-storage-decisions** — Architect-level storage decision-making and recovery patterns
+
+- **[aws-iam-foundations](https://github.com/caiofrnca/aws-iam-foundations)** — Identity design using users, groups, roles, policies, MFA, and IAM security tools
+- **[aws-ec2-baseline-architecture](https://github.com/caiofrnca/aws-ec2-baseline-architecture)** — Secure EC2 deployment with IAM roles, security groups, SSH access models, and cost-aware instance selection
+- **[aws-ec2-storage-decisions](https://github.com/caiofrnca/aws-ec2-storage-decisions)** — Architect-level storage decision-making and recovery patterns
+
 #### aws-vpc-foundations/
 
 ```bash
