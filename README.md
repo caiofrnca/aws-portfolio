@@ -15,22 +15,22 @@ decision-making.
 
 #### aws-iam-basics-lab/
 - **[aws-iam-foundations](https://github.com/caiofrnca/aws-iam-foundations)** - Identity design using users, groups, roles, policies, MFA, and IAM security tools
-- **[aws-ec2-baseline-architecture](https://github.com/caiofrnca/aws-ec2-baseline-architecture)** - Secure EC2 deployment with IAM roles, security groups, SSH access models, and instance selection
-- **[aws-ec2-storage-decisions](https://github.com/caiofrnca/aws-ec2-storage-decisions)** - Architect-level storage decision-making and recovery patterns
 
-#### aws-vpc-foundations/
-- build-1-vpc-baseline/
-- build-2-public-private-subnets/
-- build-3-routing-igw-nat/
-- build-4-security-groups-vs-nacls/
-- build-5-bastion-access-pattern/
+#### aws-ec2-alb-asg/
+- **[aws-ec2-storage-decisions](https://github.com/caiofrnca/aws-ec2-storage-decisions)** - Architect-level storage decision-making and recovery patterns
+- **[aws-ec2-baseline-architecture](https://github.com/caiofrnca/aws-ec2-baseline-architecture)** - Secure EC2 deployment with IAM roles, security groups, SSH access models, and instance selection
+- build-03-alb-asg-ha-pattern/
+
+#### aws-s3-security-lab/
+- build-01-s3-secure-bucket-baseline/
+- build-02-s3-lifecycle-and-cost/
 
 ## Structure overview
 ```bash
 aws-portfolio/
 │
-├── aws-iam-basics-lab/ (COMPLETED)
-├── aws-vpc-foundations/ (IN PROGRESS)
+├── aws-iam-basics-lab/             #COMPLETED
+├── aws-vpc-foundations/ 
 ├── aws-ec2-alb-asg/
 ├── aws-s3-security-lab/
 ├── aws-database-design-notes/
